@@ -1,0 +1,16 @@
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.csprojAssemblyReference.cache
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.Properties.Resources.resources
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.csproj.GenerateResource.cache
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.csproj.CoreCompileInputs.cache
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.RazorAssemblyInfo.cache
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.RazorAssemblyInfo.cs
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.AssemblyInfoInputs.cache
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.AssemblyInfo.cs
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/bin/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.deps.json
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/bin/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.runtimeconfig.json
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/bin/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.runtimeconfig.dev.json
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/bin/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.dll
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/bin/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.pdb
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.RazorTargetAssemblyInfo.cache
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.dll
+/Users/laura/Documents/GitHub/Rocket_Elevators_DOTNET/obj/Debug/netcoreapp2.1/Rocket_Elevator_CS_API.pdb
